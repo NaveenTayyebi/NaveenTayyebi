@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenTayyebi&langs_count=8&bg_color=80,000000,FFAA00,FFEC00&title_color=fff&text_color=fff)](https://github.com/NaveenTayyebi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenTayyebi&langs_count=8&bg_color=20,000000,FFAA00,FFEC00&title_color=fff&text_color=fff)](https://github.com/NaveenTayyebi/github-readme-stats)
